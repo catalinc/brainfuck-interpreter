@@ -1,7 +1,8 @@
 # Brainfuck interpreter written in Go
 
-Because writting an interpreter, no matter how simple, is always a good exercise. 
-Also because I wanted to try [Go][1] language.
+Writting an interpreter, no matter how simple, is fun. 
+
+(Also because I wanted to try the [Go][1] programming language.)
 
 Some simple [Brainfuck][2] programs are available under *examples* directory.
 
