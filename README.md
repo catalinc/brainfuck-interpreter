@@ -1,8 +1,4 @@
-# Brainfuck interpreter written in Go
-
-Writting an interpreter, no matter how simple, is fun. 
-
-(Also because I wanted to try the [Go][1] programming language.)
+# Brainfuck interpreter written in [Go][1]
 
 Some simple [Brainfuck][2] programs are available under *examples* directory.
 
